@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## *High school CS taecher*
+## *APCS A*
+## *APCS Principles*
