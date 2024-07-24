@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## *High school CS taecher*
+## *High school CS teacher*
 ## *APCS A*
 ## *APCS Principles*
